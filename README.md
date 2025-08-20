@@ -1,6 +1,5 @@
 # CYBER-FOREST-CTF-CHAPTER-03
 CYBER FOREST CTF CHAPTER 03
-# 🌲 CYBER FOREST: The Nexus
 
 An immersive, visual CTF challenge where players must navigate a massive network "forest" of 1000+ cables to find flags.
 
