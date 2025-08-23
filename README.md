@@ -1,4 +1,6 @@
-# CYBER-FOREST-CTF-CHAPTER-03
+
+# CYBER-FOREST-CTF-CHAPTER-03![Lucid_Origin_A_fullbody_shot_of_a_badass_elite_female_hacker_s_1](https://github.com/user-attachments/assets/4056d2c8-0165-4acf-ba6a-d6de982dcb4d)
+
 CYBER FOREST CTF CHAPTER 03
 
 An immersive, visual CTF challenge where players must navigate a massive network "forest" of 1000+ cables to find flags.
